@@ -1,0 +1,218 @@
+nav {
+    position: relative;
+    width: 28%;
+    height: 1162px;
+    background: #d0cfcf;
+    padding: 20px;
+    top: 0px;
+    margin-left: 0%;
+   
+}
+div#menu {
+    background: aliceblue;
+    position: relative;
+    top: -168px;
+    width: 950px;
+    margin-left: 185px;
+}
+body{
+	background: black;
+}
+section#section {
+    position: relative;
+    top: -1399px;
+    width: 643px;
+    height: 1201px;
+    margin-left: 492px;
+    background-color: #f9b6d6;
+}
+header {
+    background-color: #524e58;
+    padding: 13px;
+    position: relative;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    top: 98px;
+    z-index: 5;
+    top: 217px;
+    height: 134px;
+    width: 279px;
+}
+h2#text {
+    font-size: 15px;
+    position: relative;
+    top: -10;
+    top: -14px;
+    margin-right: 95px;
+}
+
+h3#sex {
+    font-size: 15px;
+    margin-right: 136px;
+    position: relative;
+    top: -18px;
+}
+
+h4#where {
+    font-size: 15px;
+    margin-left: 53px;
+    position: relative;
+    top: -19px;
+}
+
+h5#phone {
+    font-size: 15px;
+    position: relative;
+    top: -26px;
+    margin-right: 85px;
+}
+
+h6#gmail {
+    font-size: 15px;
+    position: relative;
+    top: -48px;
+    margin-right: 2px;
+}
+
+div#bd {
+    position: relative;
+    top: -138px;
+    margin-right: 216px;
+}
+div#ll {
+    position: relative;
+    top: -70px;
+    margin-right: 218px;
+}
+div#map {
+    position: relative;
+    top: -113px;
+    margin-right: 218px;
+}
+div#phone {
+    position: relative;
+    top: 84px;
+    margin-right: 218px;
+}
+div#gmail {
+    position: relative;
+    top: 75px;
+    margin-right: 217px;
+}
+div#list {
+    position: relative;
+    top: -201px;
+    margin-left: 4px;
+}
+div.skill {
+    border: solid 2px #636060;
+    position: relative;
+    top: 234px;
+    height: 28px;
+    width: 233px;
+    margin-left: 22px;
+}
+p.SK {
+    position: relative;
+    top: -19px;
+    margin-left: 89px;
+    color: #5a5353;
+    font-size: 21px;
+}
+ul#ds {
+    position: relative;
+    top: 249px;
+    color: #4a4848;
+}
+
+ul#ds2 {
+    position: relative;
+    top: 240px;
+    color: #3a3838;
+}
+img.hinh {
+    width: 80px;
+    position: relative;
+    top: 250px;
+    left: 14px;
+}
+img.hinh2 {
+  
+    height: 80px;
+    
+}
+
+div#image {
+    position: relative;
+    top: 360px;
+    margin-left: 23px;
+    border: solid 2px #636060;
+    width: 232px;
+    height: 31px;
+}
+div#dvt {
+    position: relative;
+    top: 72px;
+    margin-left: 99px;
+    font-size: 29px;
+    color: #655757;
+}
+img#hinh4 {
+    width: 130px;
+    position: relative;
+    top: -68px;
+    margin-left: 452px;
+    border-radius: 50%;
+    border: solid 3px gray;
+}
+div.elo {
+    position: relative;
+    top: -20px;
+    margin-left: 65px;
+    border: solid 2px gray;
+    width: 515px;
+    height: 30px;
+}
+p.el {
+    position: relative;
+    top: -10px;
+    margin-left: 39px;
+    color: #332c2c;
+    font-family: cursive;
+}
+p.decription {
+    margin-left: 84px;
+    font-family: cursive;
+}
+p.years {
+    margin-left: 485px;
+    position: relative;
+    top: -116px;
+    font-family: cursive;
+}
+p#front {
+    position: relative;
+    top: -30px;
+    margin-left: 10px;
+    color: gray;
+    font-family: inherit;
+}
+p.years2 {
+    position: relative;
+    top: -270px;
+    margin-left: 493px;
+    font-family: cursive;
+}
+p#FPT {
+    position: relative;
+    top: -20px;
+    margin-left: 80px;
+    font-size: 25px;
+    font-family: monospace;
+    color: #696363;
+}
+li.decription {
+    font-family: monospace;
+    margin-left: 84px;
+}
